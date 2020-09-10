@@ -1,0 +1,22 @@
+{
+  "name": "my-git-project",
+  "version": "1.0.0",
+  "description": "> My code for the git project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbin133/my-git-project.git"
+  },
+  "keywords": [],
+  "author": "Curtis <curtiscorbin08@gmail.com> (http://www.curtiscorbin.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corbin133/my-git-project/issues"
+  },
+  "homepage": "https://github.com/corbin133/my-git-project#readme"
+}
