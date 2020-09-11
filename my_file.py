@@ -6,3 +6,6 @@ print('another code change')
 
 def hi_there():
     print("hi")
+
+def hey_there():
+    print("hi")
