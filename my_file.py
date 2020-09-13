@@ -8,4 +8,4 @@ def hi_there():
     print("hi")
 
 def hey_there():
-    print("hi")
+    print("update python with merge conflict demo")
