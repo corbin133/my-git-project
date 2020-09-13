@@ -1,6 +1,6 @@
 # My Git Project
 
-> My code for the git project
+> My scary merger conflict code
 
 > another code thing
 
