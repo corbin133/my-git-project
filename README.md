@@ -1,8 +1,6 @@
 # My Git Project
 
-> My innocent little change
-
-> My code for the git project
+> My scary merger conflict code
 
 > another code thing
 
